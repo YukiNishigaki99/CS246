@@ -1,1 +1,6 @@
 This is team04 assignment.
+
+Team members:
+Amelia Denison,
+Marlon Eusebio,
+Yuki Nishigaki
